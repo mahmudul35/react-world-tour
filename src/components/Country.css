@@ -4,3 +4,8 @@
   margin: 15px;
   border-radius: 15px;
 }
+
+.visited {
+  background-color: bisque;
+  color: rgb(230, 54, 31);
+}
